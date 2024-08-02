@@ -1,0 +1,46 @@
+*{
+    font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+  font-style: bold;
+  background-color: #C9DABF;
+}
+.emp_stl{
+    height: 200px;
+    width: 550px;
+    font-size: 25px;
+    position: fixed;
+    margin-top: 150px;
+    margin-left: 400px;
+    border-radius: 10px;
+    background-color: #9CA986;
+    align-items: center;
+    color: black;
+}
+.inst{
+    margin-top: 5px;
+    height: 20px;
+    width: 200px;
+    background-color: #808D7C;
+}
+h1{
+    font-size: 35px;
+    margin-left: 430px;
+}
+button {
+    height: 30px;
+    width: 70px;
+    margin-left: 40%;
+    font-size: 15px;
+    border-radius: 10%;
+}
+.stli{
+    background-color: #9CA986;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+    
+    
+}
+.back{
+    background-color: #9CA986;
+}
